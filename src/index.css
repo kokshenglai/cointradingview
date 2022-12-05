@@ -1,0 +1,33 @@
+.h-15 {
+    height: 15px;
+}
+
+.py-10 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.mr-2 {
+    margin-right: 2px;
+}
+
+.w-auto {
+    width: auto;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+th {
+    font-weight: 800 !important;
+    font-size: 1.2rem !important;
+}
+
+td {
+    font-size: 1rem !important;
+}
+
+/* .MuiSlider-root.Mui-disabled {
+    color: #1976d2;
+} */
